@@ -434,5 +434,5 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "delroy lindo",
             "spike lee",
         ],
-    ),
+    )
 ]
